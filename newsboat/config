@@ -1,0 +1,13 @@
+color background          default          default
+color listnormal          white            default
+color listfocus           white            color98         bold
+color listnormal_unread   white            default         bold
+color listfocus_unread    white            color98         bold
+color title               white            color98         bold
+color info                white            color98         bold
+color hint-key            white            color98         bold
+color hint-keys-delimiter white            color98
+color hint-separator      white            color98         bold
+color hint-description    white            color98
+color article             white            default
+color end-of-text-marker  white            default

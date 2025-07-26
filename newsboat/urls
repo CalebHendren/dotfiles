@@ -1,0 +1,6 @@
+"query:Unread Articles:unread = \"yes\""
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+https://rss.nytimes.com/services/xml/rss/nyt/US.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
+http://feeds.ign.com/ign/all
+https://kotaku.com/rss
